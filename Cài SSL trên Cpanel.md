@@ -27,24 +27,27 @@ Chọn tên miền cần cài
  
 Tiếp đó ta nhập key đã giải ném trước đó v à ấn Install
  
- #### 1 `key crt` tương ứng với 
+ #### File  `key crt` tương ứng với 
  
  ![image](https://user-images.githubusercontent.com/105496635/195529554-8d67f5cd-8b7b-4bb6-9a61-7977891579d0.png)
 
+Tương ứng với ảnh sau
  
 ![image](https://user-images.githubusercontent.com/105496635/195529392-eefc9bf7-7130-4aec-8d05-829943f48e77.png)
 
-#### 2 `file .key` tương ứng với
+#### File `file .key` tương ứng với
 
 ![image](https://user-images.githubusercontent.com/105496635/195529846-8ecbf424-6349-4e3a-b5de-aae269adbb75.png)
 
+Tương ứng với ảnh sau
 
 ![image](https://user-images.githubusercontent.com/105496635/195529726-04a2da83-da41-439c-b22d-3158fee8c60b.png)
 
-#### 3 `file crt` là file chứng chỉ cho web
+#### File `file crt` là file chứng chỉ cho web
 
 ![image](https://user-images.githubusercontent.com/105496635/195530095-d48d44e1-0fe4-4829-8032-5646748643cb.png)
 
+Tương ứng với ảnh sau
 
 ![image](https://user-images.githubusercontent.com/105496635/195530150-091456e0-2b48-48c8-9947-50059ce8becd.png)
 
